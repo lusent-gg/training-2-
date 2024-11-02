@@ -1,0 +1,14 @@
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\bin\Debug\net8.0\phonestring.exe
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\bin\Debug\net8.0\phonestring.deps.json
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\bin\Debug\net8.0\phonestring.runtimeconfig.json
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\bin\Debug\net8.0\phonestring.dll
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\bin\Debug\net8.0\phonestring.pdb
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\phonestring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\phonestring.AssemblyInfoInputs.cache
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\phonestring.AssemblyInfo.cs
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\phonestring.csproj.CoreCompileInputs.cache
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\phonestring.dll
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\refint\phonestring.dll
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\phonestring.pdb
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\phonestring.genruntimeconfig.cache
+C:\Users\ariya rayaneh\source\repos\phonestring\phonestring\obj\Debug\net8.0\ref\phonestring.dll
