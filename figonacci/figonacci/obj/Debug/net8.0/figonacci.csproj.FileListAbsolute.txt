@@ -1,0 +1,14 @@
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\bin\Debug\net8.0\figonacci.exe
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\bin\Debug\net8.0\figonacci.deps.json
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\bin\Debug\net8.0\figonacci.runtimeconfig.json
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\bin\Debug\net8.0\figonacci.dll
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\bin\Debug\net8.0\figonacci.pdb
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\figonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\figonacci.AssemblyInfoInputs.cache
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\figonacci.AssemblyInfo.cs
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\figonacci.csproj.CoreCompileInputs.cache
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\figonacci.dll
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\refint\figonacci.dll
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\figonacci.pdb
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\figonacci.genruntimeconfig.cache
+C:\Users\ariya rayaneh\source\repos\figonacci\figonacci\obj\Debug\net8.0\ref\figonacci.dll

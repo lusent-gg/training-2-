@@ -1,0 +1,14 @@
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\bin\Debug\net8.0\mirror.exe
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\bin\Debug\net8.0\mirror.deps.json
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\bin\Debug\net8.0\mirror.runtimeconfig.json
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\bin\Debug\net8.0\mirror.dll
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\bin\Debug\net8.0\mirror.pdb
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\mirror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\mirror.AssemblyInfoInputs.cache
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\mirror.AssemblyInfo.cs
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\mirror.csproj.CoreCompileInputs.cache
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\mirror.dll
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\refint\mirror.dll
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\mirror.pdb
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\mirror.genruntimeconfig.cache
+C:\Users\ariya rayaneh\source\repos\mirror\mirror\obj\Debug\net8.0\ref\mirror.dll

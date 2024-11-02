@@ -1,0 +1,14 @@
+C:\Users\ariya rayaneh\source\repos\just num\just num\bin\Debug\net8.0\just num.exe
+C:\Users\ariya rayaneh\source\repos\just num\just num\bin\Debug\net8.0\just num.deps.json
+C:\Users\ariya rayaneh\source\repos\just num\just num\bin\Debug\net8.0\just num.runtimeconfig.json
+C:\Users\ariya rayaneh\source\repos\just num\just num\bin\Debug\net8.0\just num.dll
+C:\Users\ariya rayaneh\source\repos\just num\just num\bin\Debug\net8.0\just num.pdb
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\just num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\just num.AssemblyInfoInputs.cache
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\just num.AssemblyInfo.cs
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\just num.csproj.CoreCompileInputs.cache
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\just num.dll
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\refint\just num.dll
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\just num.pdb
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\just num.genruntimeconfig.cache
+C:\Users\ariya rayaneh\source\repos\just num\just num\obj\Debug\net8.0\ref\just num.dll

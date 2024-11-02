@@ -1,0 +1,14 @@
+C:\Users\ariya rayaneh\source\repos\just word\just word\bin\Debug\net8.0\just word.exe
+C:\Users\ariya rayaneh\source\repos\just word\just word\bin\Debug\net8.0\just word.deps.json
+C:\Users\ariya rayaneh\source\repos\just word\just word\bin\Debug\net8.0\just word.runtimeconfig.json
+C:\Users\ariya rayaneh\source\repos\just word\just word\bin\Debug\net8.0\just word.dll
+C:\Users\ariya rayaneh\source\repos\just word\just word\bin\Debug\net8.0\just word.pdb
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\just word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\just word.AssemblyInfoInputs.cache
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\just word.AssemblyInfo.cs
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\just word.csproj.CoreCompileInputs.cache
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\just word.dll
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\refint\just word.dll
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\just word.pdb
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\just word.genruntimeconfig.cache
+C:\Users\ariya rayaneh\source\repos\just word\just word\obj\Debug\net8.0\ref\just word.dll
